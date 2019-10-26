@@ -7,7 +7,7 @@ with open('README.md', encoding='utf-8') as f:
 
 setup(
     name='extrange',
-    version='1.0.0a2',
+    version='1.0.0',
     description='Extra range library',
     long_description=long_description,
     long_description_content_type='text/markdown',
